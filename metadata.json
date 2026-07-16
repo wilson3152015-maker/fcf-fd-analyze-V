@@ -1,0 +1,6 @@
+{
+  "name": "台癌基金會小額募款數據分析助手",
+  "description": "提供台灣癌症基金會資源開發組使用的小額募款數據分析工具，包含檔案上傳、品質檢查、KPI計算與 Gemini 自然語言分析對話功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
